@@ -1,0 +1,27 @@
+Ready
+a
+0
+MORRIS,DONA,MORRISups.com,8001051518
+a
+0
+HENDERSON,LEESA,HENDERSONbizrate.com,8002979204
+a
+1
+DIAZ,KATHY,DIAZwordpress.com,8004579839
+a
+2
+WARD,GIA,WARDbankofamerica.com,8004312986
+a
+3
+ANDERSON,ROSALIA,ANDERSONgamevance.com,8002664504
+e
+1
+lastName
+CAMPBELL
+e
+2
+firstName
+ELFRIEDA
+n
+Not a valid command
+Not a valid command
