@@ -1,0 +1,5 @@
+Enter input filename:
+sbcctestdata/in_20230222_18_46_31_975.txt
+Enter output filename:
+sbcctestdata/test_20230222_18_46_32_187.txt
+Complete
